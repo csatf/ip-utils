@@ -1,6 +1,6 @@
 {
-    "name": "xrstf/ip-utils",
-    "description": "small library to deal with IPv4 & IPv6 addresses and subnets",
+    "name": "csatf/ip-utils",
+    "description": "small library to deal with IPv4 & IPv6 addresses and subnets - forked from deprecated mg repo",
     "keywords": [
         "ip",
         "ipv4",
